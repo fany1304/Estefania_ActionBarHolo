@@ -1,0 +1,7 @@
+#Wed Nov 16 17:35:13 CET 2016
+base.0=C\:\\Users\\Fany\\AndroidStudioProjects\\ListViewActionBar_Holo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f330233b35b8ee7481889c691e55e60a3c1c0c26
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Fany\\AndroidStudioProjects\\ListViewActionBar_Holo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_57b3d1812b593e712e39df61d666c97f6483c1df\\classes.dex
+base.1=C\:\\Users\\Fany\\AndroidStudioProjects\\ListViewActionBar_Holo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_57b3d1812b593e712e39df61d666c97f6483c1df
+file.0=C\:\\Users\\Fany\\AndroidStudioProjects\\ListViewActionBar_Holo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f330233b35b8ee7481889c691e55e60a3c1c0c26\\classes.dex
