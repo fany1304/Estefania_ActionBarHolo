@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListView i ActionBar</string>
+    <string name="acercade">Sobre</string>
+    <string name="anyadir">Anyadir</string>
+    <string name="restablecer">Restableixer</string>
+</resources>
